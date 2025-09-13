@@ -1,7 +1,7 @@
 # Joke-Burst
 # Random Jokes App
 
-![App Logo](data/icon.ico)
+![App Logo](icon.ico)
 
 **Random Jokes** is a fun desktop application that delivers random jokes from different categories directly to your Windows desktop via notifications. It's perfect for a quick laugh anytime, without opening a browser or app.
 
